@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv9/a9pr1/hashTable.cpp
+hashTable.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv9/a9pr1/hashTable.h
+iostream
+-
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv9/a9pr1/hashTable.h
+string
+-
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv9/a9pr1/main.cpp
+iostream
+-
+hashTable.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv9/a9pr1/hashTable.h
+

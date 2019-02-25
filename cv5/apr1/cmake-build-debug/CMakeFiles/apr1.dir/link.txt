@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/apr1.dir/main.cpp.o CMakeFiles/apr1.dir/list.cpp.o CMakeFiles/apr1.dir/Graph.cpp.o CMakeFiles/apr1.dir/Vertex.cpp.o  -o apr1 

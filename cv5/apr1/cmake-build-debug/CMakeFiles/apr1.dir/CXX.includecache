@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/Graph.cpp
+Graph.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/Graph.h
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/Graph.h
+list.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/list.h
+Vertex.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/Vertex.h
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/Vertex.cpp
+iostream
+-
+Vertex.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/Vertex.h
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/Vertex.h
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/cmake-build-debug/list.cpp
+../list.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/list.h
+cstdio
+-
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/list.h
+Vertex.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/Vertex.h
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/main.cpp
+iostream
+-
+list.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/list.h
+Graph.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/Graph.h
+Vertex.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv5/apr1/Vertex.h
+

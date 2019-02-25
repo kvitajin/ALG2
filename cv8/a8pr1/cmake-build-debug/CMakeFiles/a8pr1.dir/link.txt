@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/a8pr1.dir/main.cpp.o CMakeFiles/a8pr1.dir/BSTree.cpp.o  -o a8pr1 

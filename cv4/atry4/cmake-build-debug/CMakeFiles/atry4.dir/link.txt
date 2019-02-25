@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/atry4.dir/main.cpp.o  -o atry4 

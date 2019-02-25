@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv8/a8pr1/BSTree.cpp
+BSTree.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv8/a8pr1/BSTree.h
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv8/a8pr1/BSTree.h
+
+/home/kvitajin/CLionProjects/vsb/alg2/cv8/a8pr1/main.cpp
+iostream
+-
+BSTree.h
+/home/kvitajin/CLionProjects/vsb/alg2/cv8/a8pr1/BSTree.h
+
